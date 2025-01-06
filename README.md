@@ -1,4 +1,4 @@
-![Project5_Walkthrough](https://github.com/user-attachments/assets/c466c9ec-567b-44f1-80d1-6ee412cc51fe)Submitted by: **Anh Bui**
+Submitted by: **Anh Bui**
 
 This app: Carpool
 
@@ -36,7 +36,7 @@ DeCarpool is a carpooling app designed specifically for college campuses to conn
 *Campus Integration:* Includes campus maps, event-based carpool suggestions, and notifications for ride matches near specific buildings or events.
 
 Here's a walkthrough of implemented required features:
-![Uploading Project5_Walkthrough.gif…]()
+![Project5_Walkthrough](https://github.com/user-attachments/assets/c466c9ec-567b-44f1-80d1-6ee412cc51fe)
 
 GIF created with LiceCap
 
